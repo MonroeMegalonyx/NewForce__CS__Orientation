@@ -13,8 +13,11 @@ namespace EnthusiasticMoose
       MooseSays("H I, I'M  E N T H U S I A S T I C !");
       MooseSays("I really am enthusiastic");
 
-      // Ask a question
+      // Ask some questions
       CanadaQuestion();
+      EnthusiasticQuestion();
+      LoveCSharpQuestion();
+      SecretQuestion();
     }
 
     static void MooseSays(string message)
